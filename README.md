@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thatchidinma!
 
-**Frontend Web Developer** passionate about crafting beautiful and user-friendly digital experiences.
+**Frontend Developer** passionate about crafting beautiful and user-friendly digital experiences.
 
 ---
 
